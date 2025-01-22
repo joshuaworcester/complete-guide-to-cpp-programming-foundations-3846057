@@ -4,6 +4,9 @@
 
 #include <iostream>
 
+/* This program prints the message "Hi There!
+in the terminal output"*/
+
 int main(){
     std::cout << "Hi There!" << std::endl;
 
